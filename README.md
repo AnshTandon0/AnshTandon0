@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ansh</h1>
-<h2 align="center">An Android and Node Js Developer</h2>
+<h2 align="center">An Android and Web Developer</h2>
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnshTandon0&label=Profile%20views&color=0e75b6&style=flat" alt="AnshTandon0" /> </p>
 
-- 💬 Ask me about **Kotlin, Java, Android , Node Js**
+- 💬 Ask me about **Kotlin, Java, Javascript , Android , Node Js , React Js**
 - 📫 How to reach me **anshtandonat@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ansh-tandon-68871b178/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ansh-tandon-68871b178/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ansh-tandon-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ansh-tandon-/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ansh.tandon.98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ansh.tandon.98/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ansh.tandon.98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ansh.tandon.98/" height="30" width="40" /></a> 
 <a href="https://auth.geeksforgeeks.org/user/anshtandonlmp/" target="blank"><img align="center" src="https://repository-images.githubusercontent.com/389729275/371ba38b-8a03-4bff-916c-c3fa5396ceda" alt="https://auth.geeksforgeeks.org/user/anshtandonlmp/" height="30" width="40" /></a>
